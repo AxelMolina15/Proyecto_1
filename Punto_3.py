@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import weibull_min
 from scipy.optimize import minimize
-
+#
 # Parámetros de la distribución Weibull
 lambda_ = 50  # Escala
 k = 10  # Forma
